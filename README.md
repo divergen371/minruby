@@ -1,1 +1,1 @@
-(Rubyで作Ruby)[https://lambdanote.com/collections/ruby-ruby]
+[ Rubyで作Ruby ]( https://lambdanote.com/collections/ruby-ruby )
