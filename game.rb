@@ -1,4 +1,4 @@
-prngleu = Random.new
+prng = Random.new
 ans = prng.rand(10)
 
 guess = gets.to_i
