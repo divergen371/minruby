@@ -6,5 +6,10 @@ def preorder(tree)
   end
 end
 
-node1 = ['NODE1', ['NODE2', ['leafA'], ['leafB']], ['NODE2', ['leafC'], ['leafD']]]
-preorder(node1)
+# node1 = ['NODE1', ['NODE2', ['leafA'], ['leafB']], ['NODE2', ['leafC'], ['leafD']]]
+
+node2 = ['NODE1', ['leafD'],
+         ['NODE2', ['leafA'],
+          ['NODE3', ['leafB'], ['leafC']]]]
+# preorder(node1)
+preorder(node2)
